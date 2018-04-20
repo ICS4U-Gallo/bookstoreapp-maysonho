@@ -40,9 +40,9 @@ public class BookControllers extends Controller{
     }
 
 
-    // destory book
+    // destroy book
 
-    public Result destory(Integer id){
+    public Result destroy(Integer id){
         return TODO;
     }
 
